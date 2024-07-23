@@ -3,4 +3,4 @@ My name is Thomas, I'm a Computer Engineering student at the University of Briti
 I'm currently working on:
 - Learning Data Structures and Algorithms
 - Learning JavaScript
-- [A snake game in Python](https://github.com/thomasafroo/SnakeGamePython)
+- [Building a snake game in Python](https://github.com/thomasafroo/SnakeGamePython)
