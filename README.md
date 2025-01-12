@@ -1,3 +1,3 @@
-My name is Thomas Yemane, I'm a Computer Engineering student at the University of British Columbia. I'm interested in digital systems design, verification and software engineering.
+My name is Thomas, I'm a Computer Engineering student at the University of British Columbia. I'm interested in digital systems design, verification and software engineering.
 
 Feel free to reach out to me at thomasyemane04@gmail.com.
