@@ -1,4 +1,4 @@
-## Hi, I'm Thomas 👋
+## Hi, I'm Thomas
 
 I'm a Computer Engineering student at the University of British Columbia interested in software engineering, computer systems, machine learning, and AI.
 
