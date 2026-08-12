@@ -6,11 +6,11 @@ I enjoy building technically challenging projects across the stack, from low-lev
 
 ### What I'm working on
 
-* **ScribeFlow** — An AI clinical documentation and workflow platform built for Canadian medical clinics, transforming patient encounters into structured clinical notes and downstream clinical documents.
+* **[ScribeFlow](https://www.scribeflowmd.com/)** — An AI clinical documentation and workflow platform built for Canadian medical clinics, transforming patient encounters into structured clinical notes and downstream clinical documents.
 
-* **FireSight** — A geospatial machine learning system for forecasting wildfire risk across British Columbia using weather, terrain, vegetation, and historical wildfire data.
+* **[FireSight](https://github.com/thomasafroo/FireSight)** — A geospatial machine learning system for forecasting wildfire risk across British Columbia using weather, terrain, vegetation, and historical wildfire data.
 
-* **Pipelined CPU** — A custom CPU designed in Verilog, implementing a pipelined processor architecture with the goal of running DOOM.
+* **Ouroboros** — A custom CPU designed in Verilog, implementing a pipelined processor architecture with the goal of running DOOM.
 
 ### Areas I'm interested in
 
