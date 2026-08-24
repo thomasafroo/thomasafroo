@@ -12,6 +12,8 @@ I enjoy building technically challenging projects across the stack, from low-lev
 
 * **Ouroboros** — A custom CPU designed in Verilog, implementing a pipelined processor architecture with the goal of running DOOM.
 
+* **Autonomous RC Vehicle** — autonomous driving stack from the ground up on a 1:16 brushless RC platform.
+
 ### Areas I'm interested in
 
 `Software Engineering` · `Machine Learning` · `Artificial Intelligence` · `Computer Architecture` · `Digital Systems` · `Embedded Systems`
