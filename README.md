@@ -6,13 +6,13 @@ I enjoy building technically challenging projects across the stack, from low-lev
 
 ### What I'm working on
 
-* **[ScribeFlow](https://www.scribeflowmd.com/)** — An AI clinical documentation and workflow platform built for Canadian medical clinics, transforming patient encounters into structured clinical notes and downstream clinical documents.
+* **[ScribeFlow](https://www.scribeflowmd.com/)**: an AI clinical documentation and workflow platform built for Canadian medical clinics, transforming patient encounters into structured clinical notes and downstream clinical documents.
 
-* **[FireSight](https://github.com/thomasafroo/FireSight)** — A geospatial machine learning system for forecasting wildfire risk across British Columbia using weather, terrain, vegetation, and historical wildfire data.
+* **[FireSight](https://github.com/thomasafroo/FireSight)**: a geospatial machine learning system for forecasting wildfire risk across British Columbia using weather, terrain, vegetation, and historical wildfire data.
 
-* **Ouroboros** — A custom CPU designed in Verilog, implementing a pipelined processor architecture with the goal of running DOOM.
+* **Ouroboros**: a custom CPU designed in Verilog, implementing a pipelined processor architecture with the goal of running DOOM.
 
-* **Autonomous RC Vehicle** — autonomous driving stack from the ground up on a 1:16 brushless RC platform.
+* **Autonomous RC Vehicle**: an autonomous driving stack from the ground up on a 1:16 brushless RC platform.
 
 ### Areas I'm interested in
 
